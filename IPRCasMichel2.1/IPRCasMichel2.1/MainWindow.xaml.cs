@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Windows.UI.Xaml;
+using Windows.UI.Xaml.Navigation;
 
 namespace IPRCasMichel2._1
 {
@@ -23,6 +25,7 @@ namespace IPRCasMichel2._1
         public MainWindow()
         {
             InitializeComponent();
+            
         }
     }
 }
